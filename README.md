@@ -1,2 +1,4 @@
-# roblox
-Roblox mod menu shark
+# Roblox mod menu shark 2.664 (AntiBan)
+Roblox Mod Menus are third-party tools that provide users with a range of cheats and hacks to enhance or alter their gameplay in Roblox. These mods typically include features like unlimited Robux, speed hacks, flying, god mode, and more. Some popular versions, like the Shark 2.664 mod, are specifically designed to give players an unfair advantage by bypassing in-game restrictions. They often offer customization options and the ability to unlock premium content for free, such as skins or items. 
+
+While these tools are attractive to some players, they come with significant risks. Mod menus violate Roblox's terms of service, and players using them can face permanent bans or other penalties. Additionally, downloading and installing such mods from unverified third-party sources can expose users to malware, phishing attacks, and data theft. Roblox works to detect and prevent the use of mod menus, making their use not only unethical but also dangerous from a cybersecurity perspective 
